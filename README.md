@@ -3,7 +3,7 @@
 
 本平台在开发过程中主要利用了 HTML、CSS、JavaScript、Vue 框架、Axios库百度 API 中的 MapVGL库，其中， HTML 和 CSS 用于页面结构和样式设计，JavaScript 用于实现交互逻辑；Vue作为一款简洁、灵活、高性能且具有丰富的生态系统的前端框架来搭建平台开发环境；Axios库则负责与后端进行数据通信，获取数据并在前端应用中进行处理和展示；百度 API 中的 MapVGL 库用来展示大量基于 3D 的地理信息点线面数据，使得项目能够直观展示地理信息数据。
 
-<img src="https://github.com/user-attachments/assets/9c679888-ff49-4b73-82fb-6d60aab03317" style="width: 100%; height: auto;" alt="Image">
+<img src="https://github.com/user-attachments/assets/c07e1be7-843a-4ae4-82f2-9a14fdbcefe3" style="width: 100%; height: auto;" alt="Image">
 
 #### 2.功能实现 
 
