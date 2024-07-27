@@ -20,6 +20,6 @@
 ##### 2.4人员救援
 
  在发现溺水人员后，上传溺水地点，在地图上显示能够参与救援的人员姓名及其联系方式，方便及时呼救，保障生命安全。
+![image](https://github.com/user-attachments/assets/6f72c96f-a5e7-49fa-b7da-33026678742a)
 
-<img src="C:\Users\QBrer\AppData\Roaming\Typora\typora-user-images\image-20240727145404289.png" alt="image-20240727145404289" style="zoom:50%;" />
 
