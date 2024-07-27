@@ -8,23 +8,26 @@
 ##### 2.1基本信息与路径规划
 显示校园建筑基本信息以及规划路径
 
-<img src="https://github.com/user-attachments/assets/42265261-96c4-4647-8e88-0faef5964831" style="width: 30%; height: auto;" alt="Image">
+<img src="https://github.com/user-attachments/assets/42265261-96c4-4647-8e88-0faef5964831" style="width: 40%; height: auto;" alt="Image">
 
-![image](https://github.com/user-attachments/assets/b4c9665b-38e0-4dd2-990a-029ddbb5e25b)
+<img src="https://github.com/user-attachments/assets/b4c9665b-38e0-4dd2-990a-029ddbb5e25b" style="width: 40%; height: auto;" alt="Image">
 
 ##### 2.2积水地带可视化 
 
-对校园各区域根据其积水频率进行热力图与热力柱绘制，通过可视化来直观的得到校园内的积水高发区，从而对该区域提高注意，加强管控。 [<img src="https://private-user-images.githubusercontent.com/94448088/352705167-65a0394a-61f6-42a9-876e-88026e4df298.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIwNjMxMTIsIm5iZiI6MTcyMjA2MjgxMiwicGF0aCI6Ii85NDQ0ODA4OC8zNTI3MDUxNjctNjVhMDM5NGEtNjFmNi00MmE5LTg3NmUtODgwMjZlNGRmMjk4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI3VDA2NDY1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3YWNlYWM3YTAzNDliM2I5NWU4YjlhZTMzYWNjYjA3NTkyYjIxZDFkMmI3ZjY5YTA4M2JkOTVkYjI0MWI3NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.a8b9uEC_A8Y7-Fs80gGBAqIDHjl08gTBkS2cN86z-48" alt="image" style="zoom:40%;" />](https://private-user-images.githubusercontent.com/94448088/352705167-65a0394a-61f6-42a9-876e-88026e4df298.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIwNjMxMTIsIm5iZiI6MTcyMjA2MjgxMiwicGF0aCI6Ii85NDQ0ODA4OC8zNTI3MDUxNjctNjVhMDM5NGEtNjFmNi00MmE5LTg3NmUtODgwMjZlNGRmMjk4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI3VDA2NDY1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3YWNlYWM3YTAzNDliM2I5NWU4YjlhZTMzYWNjYjA3NTkyYjIxZDFkMmI3ZjY5YTA4M2JkOTVkYjI0MWI3NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.a8b9uEC_A8Y7-Fs80gGBAqIDHjl08gTBkS2cN86z-48) 
+对校园各区域根据其积水频率进行热力图与热力柱绘制，通过可视化来直观的得到校园内的积水高发区，从而对该区域提高注意，加强管控。
+
+<img src="https://github.com/user-attachments/assets/a51176ce-6f1b-4ea7-abca-85f8aafb670a" style="width: 40%; height: auto;" alt="Image">
 
 ##### 2.3险区识别
 
 对水体进行水深及周围人群识别，如果水体深度超过50cm，认为是危险水体，在地图进行红色标注，若周围有人群，进行人群疏散，导航至避难所 
 
-[<img src="https://private-user-images.githubusercontent.com/94448088/352705196-39a0becb-0d47-4556-babe-d4f1f7576c88.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIwNjMxMTIsIm5iZiI6MTcyMjA2MjgxMiwicGF0aCI6Ii85NDQ0ODA4OC8zNTI3MDUxOTYtMzlhMGJlY2ItMGQ0Ny00NTU2LWJhYmUtZDRmMWY3NTc2Yzg4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI3VDA2NDY1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNDdhMzFmZTY2OTEzNDk4NjMzOWQwMTg0NGM1ZTlmYWMxYzc1YzIwYzk2NDA1NjM2YjVmN2M5Y2Y2YTFlODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BrwUdbB1QWvIiouoLukK8-5NZMNAibu3R8EWBkuaNk0" alt="image" style="zoom:50%;" />](https://private-user-images.githubusercontent.com/94448088/352705196-39a0becb-0d47-4556-babe-d4f1f7576c88.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIwNjMxMTIsIm5iZiI6MTcyMjA2MjgxMiwicGF0aCI6Ii85NDQ0ODA4OC8zNTI3MDUxOTYtMzlhMGJlY2ItMGQ0Ny00NTU2LWJhYmUtZDRmMWY3NTc2Yzg4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI3VDA2NDY1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNDdhMzFmZTY2OTEzNDk4NjMzOWQwMTg0NGM1ZTlmYWMxYzc1YzIwYzk2NDA1NjM2YjVmN2M5Y2Y2YTFlODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BrwUdbB1QWvIiouoLukK8-5NZMNAibu3R8EWBkuaNk0) 
+<img src="https://github.com/user-attachments/assets/a72f7d5a-3e3e-4bb8-8b94-04a688598c52" style="width: 40%; height: auto;" alt="Image">
 
 ##### 2.4人员救援
 
- 在发现溺水人员后，上传溺水地点，在地图上显示能够参与救援的人员姓名及其联系方式，方便及时呼救，保障生命安全。
-![image](https://github.com/user-attachments/assets/6f72c96f-a5e7-49fa-b7da-33026678742a)
+在发现溺水人员后，上传溺水地点，在地图上显示能够参与救援的人员姓名及其联系方式，方便及时呼救，保障生命安全。
+
+<img src="https://github.com/user-attachments/assets/6f72c96f-a5e7-49fa-b7da-33026678742a" style="width: 40%; height: auto;" alt="Image">
 
 
