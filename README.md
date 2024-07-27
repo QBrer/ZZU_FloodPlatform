@@ -8,7 +8,7 @@
 ##### 2.1基本信息与路径规划
 显示校园建筑基本信息以及规划路径
 
-<img src="https://github.com/user-attachments/assets/42265261-96c4-4647-8e88-0faef5964831" style="width: 50%; height: auto;" alt="Image">
+<img src="https://github.com/user-attachments/assets/42265261-96c4-4647-8e88-0faef5964831" style="width: 30%; height: auto;" alt="Image">
 
 ![image](https://github.com/user-attachments/assets/b4c9665b-38e0-4dd2-990a-029ddbb5e25b)
 
