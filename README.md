@@ -10,24 +10,24 @@
 
 <img src="https://github.com/user-attachments/assets/42265261-96c4-4647-8e88-0faef5964831" style="width: 40%; height: auto;" alt="Image">
 
-<img src="https://github.com/user-attachments/assets/b4c9665b-38e0-4dd2-990a-029ddbb5e25b" style="width: 40%; height: auto;" alt="Image">
+<img src="https://github.com/user-attachments/assets/b4c9665b-38e0-4dd2-990a-029ddbb5e25b" style="width: 50%; height: auto;" alt="Image">
 
 ##### 2.2积水地带可视化 
 
 对校园各区域根据其积水频率进行热力图与热力柱绘制，通过可视化来直观的得到校园内的积水高发区，从而对该区域提高注意，加强管控。
 
-<img src="https://github.com/user-attachments/assets/a51176ce-6f1b-4ea7-abca-85f8aafb670a" style="width: 40%; height: auto;" alt="Image">
+<img src="https://github.com/user-attachments/assets/a51176ce-6f1b-4ea7-abca-85f8aafb670a" style="width: 50%; height: auto;" alt="Image">
 
 ##### 2.3险区识别
 
 对水体进行水深及周围人群识别，如果水体深度超过50cm，认为是危险水体，在地图进行红色标注，若周围有人群，进行人群疏散，导航至避难所 
 
-<img src="https://github.com/user-attachments/assets/a72f7d5a-3e3e-4bb8-8b94-04a688598c52" style="width: 40%; height: auto;" alt="Image">
+<img src="https://github.com/user-attachments/assets/a72f7d5a-3e3e-4bb8-8b94-04a688598c52" style="width: 50%; height: auto;" alt="Image">
 
 ##### 2.4人员救援
 
 在发现溺水人员后，上传溺水地点，在地图上显示能够参与救援的人员姓名及其联系方式，方便及时呼救，保障生命安全。
 
-<img src="https://github.com/user-attachments/assets/6f72c96f-a5e7-49fa-b7da-33026678742a" style="width: 40%; height: auto;" alt="Image">
+<img src="https://github.com/user-attachments/assets/6f72c96f-a5e7-49fa-b7da-33026678742a" style="width: 50%; height: auto;" alt="Image">
 
 
